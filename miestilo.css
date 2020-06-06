@@ -1,0 +1,33 @@
+body{
+font-family: Bold 1;
+background:#F5A9F2;
+}
+
+ h1{
+   color:red;
+ 
+    }
+  
+ h1{
+  font-size:50px;
+  }  
+  
+   p {
+ color:#173B0B;
+ }
+ 
+ p {
+ font-size:30px;
+ }
+ 
+ 
+ 
+ div  {
+ width:1000px;
+ height:100px;
+ background:#58FAF4;
+ margin:10px 30px;
+ padding:10px;
+ border:10px solid #000;
+ }
+ 
